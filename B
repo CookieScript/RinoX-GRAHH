@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CookieScript/RinoX-GRAHH/refs/heads/main/D"))()
